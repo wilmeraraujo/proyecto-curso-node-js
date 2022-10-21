@@ -1,0 +1,11 @@
+//estados de una promesa
+        promesas
+           ||
+    pendiente(pending)
+        ||       ||
+    cumplida   rechazada
+   (fulfilled) (rejected)
+
+//una promesa es un objeto de javascript
+
+//funcon callback = > funcion de respuesta

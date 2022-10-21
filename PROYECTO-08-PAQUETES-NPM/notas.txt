@@ -1,0 +1,9 @@
+
+//intalar express
+npm install express
+//desinstalar un modulo
+npm uninstall express
+//instalar versiones anteriores
+npm install express@4.15.1
+//devDependencias => se utiliza para dependencias que solo son necesarias para el momento del desarrollo
+npm install express --save-dev
