@@ -1,0 +1,14 @@
+//CRUD  
+operaciones basicas
+create => POST
+read   => GET
+update => PUT
+Delete => DELETE
+
+
+//iniciar proyecto
+
+//inicializar nuestro paquete
+npm init
+//instalar express
+npm installl express

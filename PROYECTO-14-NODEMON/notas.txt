@@ -1,0 +1,3 @@
+//instalar nodemon
+g => para ins talar de manera global
+npm install -g nodemon 
